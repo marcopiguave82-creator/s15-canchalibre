@@ -16,8 +16,6 @@ El sistema permite que los estudiantes consulten los horarios disponibles, reser
 - Antony Joel Palma Lopez
 - Jeremy Joshua Cruz Gorotiza
 
-*(Reemplaza estos nombres por los de tu grupo.)*
-
 ---
 
 ## Requisitos funcionales
