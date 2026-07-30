@@ -10,10 +10,11 @@ El sistema permite que los estudiantes consulten los horarios disponibles, reser
 
 ## Integrantes
 
-- Integrante 1
-- Integrante 2
-- Integrante 3
-- Integrante 4
+- Daniela Elizabeth Gonzáles Naranjo
+- Camila Valeska Litardo Figueroa
+- Marco Aurelio Piguave Cedeño
+- Antony Joel Palma Lopez
+- Jeremy Joshua Cruz Gorotiza
 
 *(Reemplaza estos nombres por los de tu grupo.)*
 
